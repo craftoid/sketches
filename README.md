@@ -1,5 +1,6 @@
 
-OpenProcessing sketches 
+OpenProcessing Sketches
+=======================
 
 ### Source
 All sketches in this repo were originally published on [ *OpenProcessing* ](http://openprocessing.org)
